@@ -1,0 +1,90 @@
+.nyhet1 hr {
+  position: relative;
+  top: 20px;
+  border: none;
+  height: 4px;
+  background: white;
+  margin-bottom: 50px;
+}
+
+body {
+  background-image: url("https://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg");
+  background-attachment: scroll;
+  width: 100%;
+}
+
+.Rubrik1 h1 {
+  text-align: center;
+  font-size: 3em;
+  color: white;
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 1em;
+}
+.nyhet1 {
+  width: 100%;
+}
+.nyhet1 h1 {
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 1em;
+  color: white;
+}
+
+.nyhet1 p {
+  font-size: 1.3em;
+
+  text-align: middle;
+  color: white;
+
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 1em;
+}
+
+.nyhet1 iframe {
+  margin: auto;
+  display: block;
+}
+
+.nyhet2 p {
+  font-size: 1.3em;
+  color: white;
+}
+.nyhet2 h2 {
+  color: white;
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 1em;
+}
+.nyhet2 h1 {
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 1em;
+  color: white;
+}
+.nyhet2 {
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 1em;
+}
+
+.nyhet2 img {
+  max-width: 50%;
+  max-height: 50%;
+  margin: auto;
+  display: block;
+}
+
+.nyhet2 iframe {
+  margin: auto;
+  display: block;
+}
+.nyhet2 hr {
+  position: relative;
+  top: 20px;
+  border: none;
+  height: 4px;
+  background: white;
+  margin-bottom: 50px;
+}
