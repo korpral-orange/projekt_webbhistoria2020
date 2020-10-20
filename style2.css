@@ -1,0 +1,48 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/ea/3f/d3/ea3fd3102ccf575e3c33954f73eab78d.jpg");
+  
+  width:100%;
+}
+
+.Rubrik1 h1 {
+  font-size: 3em;
+  text-align: center;
+
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 0em;
+}
+
+.nav a {
+  display: block;
+  padding: 14px 16px;
+  background-color:grey;
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+.nav li {
+  display: inline;
+  float: left;
+}
+
+p{
+
+ color:black;
+ background-color:limegreen;
+text-align:center;
+margin: 10em;
+}
+
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+
+  
+  
