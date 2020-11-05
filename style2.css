@@ -1,7 +1,8 @@
 body {
-  background-image: url("https://i.pinimg.com/originals/ea/3f/d3/ea3fd3102ccf575e3c33954f73eab78d.jpg");
-  
-  width:100%;
+  background-image: url("https://www.teahub.io/photos/full/2-27120_banner-aesthetic-youtube-backgrounds.jpg");
+  overflow-x: hidden;
+  width: 100%;
+  background-size: cover;
 }
 
 .Rubrik1 h1 {
@@ -16,9 +17,16 @@ body {
 .nav a {
   display: block;
   padding: 14px 16px;
-  background-color:grey;
   text-align: center;
   text-decoration: none;
+  color: black;
+
+
+    display: block;
+    padding: 14px 16px;
+    background-color: rgb(5, 54, 145);
+    text-align: center;
+    text-decoration: none;
   
 }
 
@@ -27,22 +35,47 @@ body {
   float: left;
 }
 
-p{
-
- color:black;
- background-color:limegreen;
-text-align:center;
-margin: 10em;
+p {
+  color: black;
+  background-color:rgb(5, 54, 145);
+  text-align: center;
+  margin: 10em;
 }
 
-
 .nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: black;
-  }
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(80, 0, 126)
+  /*background-color: black;*/
+}
 
+.Rubrik1 h1 {
+  color: white;
+}
+
+.beskrivningar h2, p {
+  color: black;
+  background-color:rgb(5, 54, 145);
+  text-align: center;
+  margin-left: 14em;
+  margin-right: 14em;
   
-  
+}
+
+.hr{
+background-color: black;
+
+}
+
+.intro p {
+  background-color: rgba(38, 202, 214, 0.726);
+
+  font-size: 1.3em;
+  float:left;
+  margin-left: 0em;
+  margin-right: 10em;
+  padding: 0em;
+}
+
